@@ -1,0 +1,18 @@
+{
+  "name": "generate-date-path",
+  "version": "1.0.0",
+  "description": "A way to calculate a mathematical path to a given date",
+  "main": "index.js",
+  "author": "Clint Goodman",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cgood92/generate-date-path.git"
+  },
+  "dependencies": {
+    "moment": "^2.20.1"
+  }
+}
